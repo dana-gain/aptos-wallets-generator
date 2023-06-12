@@ -7,6 +7,7 @@ from aptos_sdk.account import Account
 from aptos_sdk.ed25519 import *
 from aptos_sdk.account_address import *
 from aptos_sdk.bcs import *
+# top content
 
 def generate_wallets(num_wallets):        #чтобы сгенерировать с seed-фразой удалить эту функцию
     wallets = []
